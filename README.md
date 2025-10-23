@@ -105,7 +105,3 @@ AI system to verify and analyze meal distribution for vulnerable populations.
 🇧🇷 Portuguese – Native  
 
 ---
-
-<p align="center">
-  <img src="portfolio_media/profile.jpg" width="180" style="border-radius:50%;" alt="Profile Picture"/>
-</p>
