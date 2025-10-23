@@ -83,7 +83,7 @@ AI system to verify and analyze meal distribution for vulnerable populations.
 
 ### Research and Education  
 
-- **Research Scientist** – [NYU Tandon, VIDA Center](https://engineering.nyu.edu/)  
+- **Research Scientist** – [New York University, NYU Tandon, VIDA Center](https://engineering.nyu.edu/)  
   *Urban Science & Data Science Research*  
 
 - **B.Sc. Civil Engineering** – [Federal University of Ceará (UFC)](https://www.ufc.br/)  
