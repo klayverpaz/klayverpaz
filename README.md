@@ -1,5 +1,8 @@
 # Hi, I’m **Klayver**
 
+![Profile views](https://komarev.com/ghpvc/?username=klayverpaz&label=Profile%20views&color=0e75b6&style=flat)
+
+
 **AI Specialist / Data Scientist**  
 📍 Fortaleza, Brazil 🇧🇷 & New York, USA 🇺🇸  
 📧 [klayverpaz@gmail.com](mailto:klayverpaz@gmail.com)  
@@ -99,4 +102,10 @@ AI system to verify and analyze meal distribution for vulnerable populations.
 ### 🗣 Languages  
 
 🇬🇧 English – Native  
-🇧🇷 Portuguese – Native
+🇧🇷 Portuguese – Native  
+
+---
+
+<p align="center">
+  <img src="portfolio_media/profile.jpg" width="180" style="border-radius:50%;" alt="Profile Picture"/>
+</p>
